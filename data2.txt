@@ -1,0 +1,29 @@
+Person 13 Parent 2 Marriage 6
+Person 14 Parent 2 Marriage 0
+Family 5 Husband 5 Wife 6 Child 4 Child 19 Child 20
+Person 19 Parent 5 Marriage 7
+Person 20 Parent 5 Marriage 8
+Person 21 Parent 7 Marriage 0
+Person 22 Parent 7 Marriage 0
+Person 16 Parent 3 Marriage 9
+Person 17 Parent 4 Marriage 10
+Person 5 Parent 11 Marriage 5
+Person 6 Parent 12 Marriage 5
+Person 9 Parent 13 Marriage 3
+Family 6 Husband 13 Wife 18
+Person 10 Parent 14 Marriage 3
+Person 11 Parent 15 Marriage 4
+Person 12 Parent 16 Marriage 4
+Person 18 Parent 0 Marriage 6
+Person 25 Parent 0 Marriage 8
+Person 26 Parent 0 Marriage 9
+Person 27 Parent 0 Marriage 10
+Person 23 Parent 7 Marriage 0
+Person 24 Parent 0 Marriage 7
+Family 7 Husband 19 Wife 24 Child 21 Child 22 Child 23
+Family 8 Husband 25 Wife 20 Child 28
+Family 9 Husband 16 Wife 26 Child 30 Child 31
+Family 10 Husband 27 Wife 17 Child 33 Child 32
+Person 28 Parent 8 Marriage 0
+Verify
+Relate 13 5

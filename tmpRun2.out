@@ -1,0 +1,48 @@
+Person 13 has parents 2 and is married in family 6.
+Person 14 has parents 2 and is married in family 0.
+Family 5 has husband 5, wife 6, and children 4 19 20.
+Person 19 has parents 5 and is married in family 7.
+Person 20 has parents 5 and is married in family 8.
+Person 21 has parents 7 and is married in family 0.
+Person 22 has parents 7 and is married in family 0.
+Person 16 has parents 3 and is married in family 9.
+Person 17 has parents 4 and is married in family 10.
+Person 5 has parents 11 and is married in family 5.
+Person 6 has parents 12 and is married in family 5.
+Person 9 has parents 13 and is married in family 3.
+Family 6 has husband 13, wife 18, and children.
+Person 10 has parents 14 and is married in family 3.
+Person 11 has parents 15 and is married in family 4.
+Person 12 has parents 16 and is married in family 4.
+Person 18 has parents 0 and is married in family 6.
+Person 25 has parents 0 and is married in family 8.
+Person 26 has parents 0 and is married in family 9.
+Person 27 has parents 0 and is married in family 10.
+Person 23 has parents 7 and is married in family 0.
+Person 24 has parents 0 and is married in family 7.
+Family 7 has husband 19, wife 24, and children 21 22 23.
+Family 8 has husband 25, wife 20, and children 28.
+Family 9 has husband 16, wife 26, and children 30 31.
+Family 10 has husband 27, wife 17, and children 33 32.
+Person 28 has parents 8 and is married in family 0.
+Person 13 points to parent family 2 but there is no back-pointer.
+Person 14 points to parent family 2 but there is no back-pointer.
+Person 9 points to marriage family 3 but there is no back-pointer.
+Person 10 points to marriage family 3 but there is no back-pointer.
+Person 16 points to parent family 3 but there is no back-pointer.
+Person 11 points to marriage family 4 but there is no back-pointer.
+Person 12 points to marriage family 4 but there is no back-pointer.
+Person 17 points to parent family 4 but there is no back-pointer.
+Person 5 points to parent family 11 but there is no back-pointer.
+Person 6 points to parent family 12 but there is no back-pointer.
+Person 9 points to parent family 13 but there is no back-pointer.
+Person 10 points to parent family 14 but there is no back-pointer.
+Person 11 points to parent family 15 but there is no back-pointer.
+Person 12 points to parent family 16 but there is no back-pointer.
+Family 5 points to child person 4 but there is no back-pointer.
+Family 9 points to child person 30 but there is no back-pointer.
+Family 9 points to child person 31 but there is no back-pointer.
+Family 10 points to child person 32 but there is no back-pointer.
+Family 10 points to child person 33 but there is no back-pointer.
+Finding the Shortest Path failed
+
